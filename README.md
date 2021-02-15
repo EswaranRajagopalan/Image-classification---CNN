@@ -1,2 +1,7 @@
 # Image-classification---CNN
-Image classification using convolutional neural network
+
+Convolutional neural network is used to classify images of fruits 
+Image augmentation techniques are used to get a balanced dataset in order to improve the accuracy. 
+
+
+
